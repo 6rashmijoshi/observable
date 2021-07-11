@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { repos } from './Models/repos';
 import { GitHubService } from './services/github.service';
+
  @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
